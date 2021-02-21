@@ -1,0 +1,160 @@
+body {
+    background-color: #eaf6f6;
+    color: #40514E;
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+}
+
+.top-container {
+    position: relative;
+    width: 100%;
+}
+
+.cloud1 {
+    display: block;
+    margin-top: -100px;
+    position: absolute;
+    right: 250px;
+    top: 10px;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    margin-top: 120px;
+    margin-bottom: 0;
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    margin-bottom: 0;
+}
+
+h3 {
+    color: #11999E;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.cloud2 {
+    left: 200px;
+    position: absolute;
+}
+
+.mountain {
+    margin-top: 20px;
+}
+
+hr {
+    border: 6px dotted #66bfbf46;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 5%;
+}
+
+.middle-container {
+    background-color: #fff;
+    padding-bottom: 100px;
+}
+
+.middle-container h2{
+    font-size: 2.5rem;
+    font-weight: lighter;
+}
+
+.contact-me {
+    margin-bottom: 100px;
+}
+
+.bottom-container {
+    background-color: #1facac;
+    margin-top: -100px;
+    padding: 50px 0 20px 0;
+}
+
+.copyright {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.75rem;
+    padding: 20px 0;
+    margin-bottom: 0;
+}
+
+.footer-link {
+    color: rgb(42, 201, 201);
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 20px 0 20px;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #fff;
+}
+
+.btn {
+    background-color: #447fa1;
+    border-radius: 8px;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: lighter;
+    margin: 10px 20px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #69b3b3;
+}
+
+.profile {
+    line-height: 2;
+    margin: 0 auto 100px auto;
+    padding-top: 8%;
+    width: 30%;
+}
+
+.profile-img {
+    width: 45%;
+}
+
+.skill-row {
+    line-height: 2;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.web-img {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+    
+}
+
+.ball-img {
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+
+.contact-me {
+    line-height: 2;
+    margin: 100px auto 100px auto;
+    width: 40%;
+}
+
+.contact-me p {
+    margin-bottom: 50px;
+}
+
+.skills {
+    margin-top: 100px;
+}
